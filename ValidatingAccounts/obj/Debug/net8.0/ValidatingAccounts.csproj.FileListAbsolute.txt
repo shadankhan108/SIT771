@@ -1,0 +1,14 @@
+/Users/shadankhan/Desktop/SIT771/ValidatingAccounts/obj/Debug/net8.0/ValidatingAccounts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shadankhan/Desktop/SIT771/ValidatingAccounts/obj/Debug/net8.0/ValidatingAccounts.AssemblyInfoInputs.cache
+/Users/shadankhan/Desktop/SIT771/ValidatingAccounts/obj/Debug/net8.0/ValidatingAccounts.AssemblyInfo.cs
+/Users/shadankhan/Desktop/SIT771/ValidatingAccounts/obj/Debug/net8.0/ValidatingAccounts.csproj.CoreCompileInputs.cache
+/Users/shadankhan/Desktop/SIT771/ValidatingAccounts/bin/Debug/net8.0/ValidatingAccounts
+/Users/shadankhan/Desktop/SIT771/ValidatingAccounts/bin/Debug/net8.0/ValidatingAccounts.deps.json
+/Users/shadankhan/Desktop/SIT771/ValidatingAccounts/bin/Debug/net8.0/ValidatingAccounts.runtimeconfig.json
+/Users/shadankhan/Desktop/SIT771/ValidatingAccounts/bin/Debug/net8.0/ValidatingAccounts.dll
+/Users/shadankhan/Desktop/SIT771/ValidatingAccounts/bin/Debug/net8.0/ValidatingAccounts.pdb
+/Users/shadankhan/Desktop/SIT771/ValidatingAccounts/obj/Debug/net8.0/ValidatingAccounts.dll
+/Users/shadankhan/Desktop/SIT771/ValidatingAccounts/obj/Debug/net8.0/refint/ValidatingAccounts.dll
+/Users/shadankhan/Desktop/SIT771/ValidatingAccounts/obj/Debug/net8.0/ValidatingAccounts.pdb
+/Users/shadankhan/Desktop/SIT771/ValidatingAccounts/obj/Debug/net8.0/ValidatingAccounts.genruntimeconfig.cache
+/Users/shadankhan/Desktop/SIT771/ValidatingAccounts/obj/Debug/net8.0/ref/ValidatingAccounts.dll

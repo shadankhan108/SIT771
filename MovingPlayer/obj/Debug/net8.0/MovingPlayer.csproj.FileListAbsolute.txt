@@ -1,0 +1,14 @@
+/Users/shadankhan/Desktop/SIT771/MovingPlayer/bin/Debug/net8.0/MovingPlayer
+/Users/shadankhan/Desktop/SIT771/MovingPlayer/bin/Debug/net8.0/MovingPlayer.deps.json
+/Users/shadankhan/Desktop/SIT771/MovingPlayer/bin/Debug/net8.0/MovingPlayer.runtimeconfig.json
+/Users/shadankhan/Desktop/SIT771/MovingPlayer/bin/Debug/net8.0/MovingPlayer.dll
+/Users/shadankhan/Desktop/SIT771/MovingPlayer/bin/Debug/net8.0/MovingPlayer.pdb
+/Users/shadankhan/Desktop/SIT771/MovingPlayer/obj/Debug/net8.0/MovingPlayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shadankhan/Desktop/SIT771/MovingPlayer/obj/Debug/net8.0/MovingPlayer.AssemblyInfoInputs.cache
+/Users/shadankhan/Desktop/SIT771/MovingPlayer/obj/Debug/net8.0/MovingPlayer.AssemblyInfo.cs
+/Users/shadankhan/Desktop/SIT771/MovingPlayer/obj/Debug/net8.0/MovingPlayer.csproj.CoreCompileInputs.cache
+/Users/shadankhan/Desktop/SIT771/MovingPlayer/obj/Debug/net8.0/MovingPlayer.dll
+/Users/shadankhan/Desktop/SIT771/MovingPlayer/obj/Debug/net8.0/refint/MovingPlayer.dll
+/Users/shadankhan/Desktop/SIT771/MovingPlayer/obj/Debug/net8.0/MovingPlayer.pdb
+/Users/shadankhan/Desktop/SIT771/MovingPlayer/obj/Debug/net8.0/MovingPlayer.genruntimeconfig.cache
+/Users/shadankhan/Desktop/SIT771/MovingPlayer/obj/Debug/net8.0/ref/MovingPlayer.dll

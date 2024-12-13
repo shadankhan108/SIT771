@@ -1,0 +1,14 @@
+/Users/shadankhan/Desktop/SIT771/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shadankhan/Desktop/SIT771/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/Users/shadankhan/Desktop/SIT771/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/Users/shadankhan/Desktop/SIT771/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/shadankhan/Desktop/SIT771/Arrays/bin/Debug/net8.0/Arrays
+/Users/shadankhan/Desktop/SIT771/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/Users/shadankhan/Desktop/SIT771/Arrays/bin/Debug/net8.0/Arrays.runtimeconfig.json
+/Users/shadankhan/Desktop/SIT771/Arrays/bin/Debug/net8.0/Arrays.dll
+/Users/shadankhan/Desktop/SIT771/Arrays/bin/Debug/net8.0/Arrays.pdb
+/Users/shadankhan/Desktop/SIT771/Arrays/obj/Debug/net8.0/Arrays.dll
+/Users/shadankhan/Desktop/SIT771/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/Users/shadankhan/Desktop/SIT771/Arrays/obj/Debug/net8.0/Arrays.pdb
+/Users/shadankhan/Desktop/SIT771/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
+/Users/shadankhan/Desktop/SIT771/Arrays/obj/Debug/net8.0/ref/Arrays.dll

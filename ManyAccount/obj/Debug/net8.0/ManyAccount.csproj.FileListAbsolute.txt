@@ -1,0 +1,14 @@
+/Users/shadankhan/Desktop/SIT771/ManyAccount/obj/Debug/net8.0/ManyAccount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shadankhan/Desktop/SIT771/ManyAccount/obj/Debug/net8.0/ManyAccount.AssemblyInfoInputs.cache
+/Users/shadankhan/Desktop/SIT771/ManyAccount/obj/Debug/net8.0/ManyAccount.AssemblyInfo.cs
+/Users/shadankhan/Desktop/SIT771/ManyAccount/obj/Debug/net8.0/ManyAccount.csproj.CoreCompileInputs.cache
+/Users/shadankhan/Desktop/SIT771/ManyAccount/bin/Debug/net8.0/ManyAccount
+/Users/shadankhan/Desktop/SIT771/ManyAccount/bin/Debug/net8.0/ManyAccount.deps.json
+/Users/shadankhan/Desktop/SIT771/ManyAccount/bin/Debug/net8.0/ManyAccount.runtimeconfig.json
+/Users/shadankhan/Desktop/SIT771/ManyAccount/bin/Debug/net8.0/ManyAccount.dll
+/Users/shadankhan/Desktop/SIT771/ManyAccount/bin/Debug/net8.0/ManyAccount.pdb
+/Users/shadankhan/Desktop/SIT771/ManyAccount/obj/Debug/net8.0/ManyAccount.dll
+/Users/shadankhan/Desktop/SIT771/ManyAccount/obj/Debug/net8.0/refint/ManyAccount.dll
+/Users/shadankhan/Desktop/SIT771/ManyAccount/obj/Debug/net8.0/ManyAccount.pdb
+/Users/shadankhan/Desktop/SIT771/ManyAccount/obj/Debug/net8.0/ManyAccount.genruntimeconfig.cache
+/Users/shadankhan/Desktop/SIT771/ManyAccount/obj/Debug/net8.0/ref/ManyAccount.dll

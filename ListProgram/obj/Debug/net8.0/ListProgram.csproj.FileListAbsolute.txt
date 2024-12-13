@@ -1,0 +1,14 @@
+/Users/shadankhan/Desktop/SIT771/ListProgram/obj/Debug/net8.0/ListProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shadankhan/Desktop/SIT771/ListProgram/obj/Debug/net8.0/ListProgram.AssemblyInfoInputs.cache
+/Users/shadankhan/Desktop/SIT771/ListProgram/obj/Debug/net8.0/ListProgram.AssemblyInfo.cs
+/Users/shadankhan/Desktop/SIT771/ListProgram/obj/Debug/net8.0/ListProgram.csproj.CoreCompileInputs.cache
+/Users/shadankhan/Desktop/SIT771/ListProgram/bin/Debug/net8.0/ListProgram
+/Users/shadankhan/Desktop/SIT771/ListProgram/bin/Debug/net8.0/ListProgram.deps.json
+/Users/shadankhan/Desktop/SIT771/ListProgram/bin/Debug/net8.0/ListProgram.runtimeconfig.json
+/Users/shadankhan/Desktop/SIT771/ListProgram/bin/Debug/net8.0/ListProgram.dll
+/Users/shadankhan/Desktop/SIT771/ListProgram/bin/Debug/net8.0/ListProgram.pdb
+/Users/shadankhan/Desktop/SIT771/ListProgram/obj/Debug/net8.0/ListProgram.dll
+/Users/shadankhan/Desktop/SIT771/ListProgram/obj/Debug/net8.0/refint/ListProgram.dll
+/Users/shadankhan/Desktop/SIT771/ListProgram/obj/Debug/net8.0/ListProgram.pdb
+/Users/shadankhan/Desktop/SIT771/ListProgram/obj/Debug/net8.0/ListProgram.genruntimeconfig.cache
+/Users/shadankhan/Desktop/SIT771/ListProgram/obj/Debug/net8.0/ref/ListProgram.dll

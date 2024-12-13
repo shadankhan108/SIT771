@@ -1,0 +1,14 @@
+/Users/shadankhan/Desktop/SIT771/BankProgram/bin/Debug/net8.0/BankProgram
+/Users/shadankhan/Desktop/SIT771/BankProgram/bin/Debug/net8.0/BankProgram.deps.json
+/Users/shadankhan/Desktop/SIT771/BankProgram/bin/Debug/net8.0/BankProgram.runtimeconfig.json
+/Users/shadankhan/Desktop/SIT771/BankProgram/bin/Debug/net8.0/BankProgram.dll
+/Users/shadankhan/Desktop/SIT771/BankProgram/bin/Debug/net8.0/BankProgram.pdb
+/Users/shadankhan/Desktop/SIT771/BankProgram/obj/Debug/net8.0/BankProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shadankhan/Desktop/SIT771/BankProgram/obj/Debug/net8.0/BankProgram.AssemblyInfoInputs.cache
+/Users/shadankhan/Desktop/SIT771/BankProgram/obj/Debug/net8.0/BankProgram.AssemblyInfo.cs
+/Users/shadankhan/Desktop/SIT771/BankProgram/obj/Debug/net8.0/BankProgram.csproj.CoreCompileInputs.cache
+/Users/shadankhan/Desktop/SIT771/BankProgram/obj/Debug/net8.0/BankProgram.dll
+/Users/shadankhan/Desktop/SIT771/BankProgram/obj/Debug/net8.0/refint/BankProgram.dll
+/Users/shadankhan/Desktop/SIT771/BankProgram/obj/Debug/net8.0/BankProgram.pdb
+/Users/shadankhan/Desktop/SIT771/BankProgram/obj/Debug/net8.0/BankProgram.genruntimeconfig.cache
+/Users/shadankhan/Desktop/SIT771/BankProgram/obj/Debug/net8.0/ref/BankProgram.dll

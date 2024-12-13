@@ -1,0 +1,14 @@
+/Users/shadankhan/Desktop/SIT771/PlayerClass/bin/Debug/net8.0/PlayerClass
+/Users/shadankhan/Desktop/SIT771/PlayerClass/bin/Debug/net8.0/PlayerClass.deps.json
+/Users/shadankhan/Desktop/SIT771/PlayerClass/bin/Debug/net8.0/PlayerClass.runtimeconfig.json
+/Users/shadankhan/Desktop/SIT771/PlayerClass/bin/Debug/net8.0/PlayerClass.dll
+/Users/shadankhan/Desktop/SIT771/PlayerClass/bin/Debug/net8.0/PlayerClass.pdb
+/Users/shadankhan/Desktop/SIT771/PlayerClass/obj/Debug/net8.0/PlayerClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shadankhan/Desktop/SIT771/PlayerClass/obj/Debug/net8.0/PlayerClass.AssemblyInfoInputs.cache
+/Users/shadankhan/Desktop/SIT771/PlayerClass/obj/Debug/net8.0/PlayerClass.AssemblyInfo.cs
+/Users/shadankhan/Desktop/SIT771/PlayerClass/obj/Debug/net8.0/PlayerClass.csproj.CoreCompileInputs.cache
+/Users/shadankhan/Desktop/SIT771/PlayerClass/obj/Debug/net8.0/PlayerClass.dll
+/Users/shadankhan/Desktop/SIT771/PlayerClass/obj/Debug/net8.0/refint/PlayerClass.dll
+/Users/shadankhan/Desktop/SIT771/PlayerClass/obj/Debug/net8.0/PlayerClass.pdb
+/Users/shadankhan/Desktop/SIT771/PlayerClass/obj/Debug/net8.0/PlayerClass.genruntimeconfig.cache
+/Users/shadankhan/Desktop/SIT771/PlayerClass/obj/Debug/net8.0/ref/PlayerClass.dll

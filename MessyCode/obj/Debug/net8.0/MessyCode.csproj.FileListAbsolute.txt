@@ -1,0 +1,14 @@
+/Users/shadankhan/Desktop/SIT771/MessyCode/obj/Debug/net8.0/MessyCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shadankhan/Desktop/SIT771/MessyCode/obj/Debug/net8.0/MessyCode.AssemblyInfoInputs.cache
+/Users/shadankhan/Desktop/SIT771/MessyCode/obj/Debug/net8.0/MessyCode.AssemblyInfo.cs
+/Users/shadankhan/Desktop/SIT771/MessyCode/obj/Debug/net8.0/MessyCode.csproj.CoreCompileInputs.cache
+/Users/shadankhan/Desktop/SIT771/MessyCode/bin/Debug/net8.0/MessyCode
+/Users/shadankhan/Desktop/SIT771/MessyCode/bin/Debug/net8.0/MessyCode.deps.json
+/Users/shadankhan/Desktop/SIT771/MessyCode/bin/Debug/net8.0/MessyCode.runtimeconfig.json
+/Users/shadankhan/Desktop/SIT771/MessyCode/bin/Debug/net8.0/MessyCode.dll
+/Users/shadankhan/Desktop/SIT771/MessyCode/bin/Debug/net8.0/MessyCode.pdb
+/Users/shadankhan/Desktop/SIT771/MessyCode/obj/Debug/net8.0/MessyCode.dll
+/Users/shadankhan/Desktop/SIT771/MessyCode/obj/Debug/net8.0/refint/MessyCode.dll
+/Users/shadankhan/Desktop/SIT771/MessyCode/obj/Debug/net8.0/MessyCode.pdb
+/Users/shadankhan/Desktop/SIT771/MessyCode/obj/Debug/net8.0/MessyCode.genruntimeconfig.cache
+/Users/shadankhan/Desktop/SIT771/MessyCode/obj/Debug/net8.0/ref/MessyCode.dll

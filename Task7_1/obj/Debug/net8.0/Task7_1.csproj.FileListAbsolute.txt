@@ -1,0 +1,14 @@
+/Users/shadankhan/Desktop/SIT771/Task7_1/obj/Debug/net8.0/Task7_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shadankhan/Desktop/SIT771/Task7_1/obj/Debug/net8.0/Task7_1.AssemblyInfoInputs.cache
+/Users/shadankhan/Desktop/SIT771/Task7_1/obj/Debug/net8.0/Task7_1.AssemblyInfo.cs
+/Users/shadankhan/Desktop/SIT771/Task7_1/obj/Debug/net8.0/Task7_1.csproj.CoreCompileInputs.cache
+/Users/shadankhan/Desktop/SIT771/Task7_1/bin/Debug/net8.0/Task7_1
+/Users/shadankhan/Desktop/SIT771/Task7_1/bin/Debug/net8.0/Task7_1.deps.json
+/Users/shadankhan/Desktop/SIT771/Task7_1/bin/Debug/net8.0/Task7_1.runtimeconfig.json
+/Users/shadankhan/Desktop/SIT771/Task7_1/bin/Debug/net8.0/Task7_1.dll
+/Users/shadankhan/Desktop/SIT771/Task7_1/bin/Debug/net8.0/Task7_1.pdb
+/Users/shadankhan/Desktop/SIT771/Task7_1/obj/Debug/net8.0/Task7_1.dll
+/Users/shadankhan/Desktop/SIT771/Task7_1/obj/Debug/net8.0/refint/Task7_1.dll
+/Users/shadankhan/Desktop/SIT771/Task7_1/obj/Debug/net8.0/Task7_1.pdb
+/Users/shadankhan/Desktop/SIT771/Task7_1/obj/Debug/net8.0/Task7_1.genruntimeconfig.cache
+/Users/shadankhan/Desktop/SIT771/Task7_1/obj/Debug/net8.0/ref/Task7_1.dll

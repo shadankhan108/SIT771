@@ -1,0 +1,14 @@
+/Users/shadankhan/Desktop/SIT771/HelloUser/obj/Debug/net8.0/HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shadankhan/Desktop/SIT771/HelloUser/obj/Debug/net8.0/HelloUser.AssemblyInfoInputs.cache
+/Users/shadankhan/Desktop/SIT771/HelloUser/obj/Debug/net8.0/HelloUser.AssemblyInfo.cs
+/Users/shadankhan/Desktop/SIT771/HelloUser/obj/Debug/net8.0/HelloUser.csproj.CoreCompileInputs.cache
+/Users/shadankhan/Desktop/SIT771/HelloUser/bin/Debug/net8.0/HelloUser
+/Users/shadankhan/Desktop/SIT771/HelloUser/bin/Debug/net8.0/HelloUser.deps.json
+/Users/shadankhan/Desktop/SIT771/HelloUser/bin/Debug/net8.0/HelloUser.runtimeconfig.json
+/Users/shadankhan/Desktop/SIT771/HelloUser/bin/Debug/net8.0/HelloUser.dll
+/Users/shadankhan/Desktop/SIT771/HelloUser/bin/Debug/net8.0/HelloUser.pdb
+/Users/shadankhan/Desktop/SIT771/HelloUser/obj/Debug/net8.0/HelloUser.dll
+/Users/shadankhan/Desktop/SIT771/HelloUser/obj/Debug/net8.0/refint/HelloUser.dll
+/Users/shadankhan/Desktop/SIT771/HelloUser/obj/Debug/net8.0/HelloUser.pdb
+/Users/shadankhan/Desktop/SIT771/HelloUser/obj/Debug/net8.0/HelloUser.genruntimeconfig.cache
+/Users/shadankhan/Desktop/SIT771/HelloUser/obj/Debug/net8.0/ref/HelloUser.dll

@@ -1,0 +1,14 @@
+/Users/shadankhan/Desktop/SIT771/BankTransaction/obj/Debug/net8.0/BankTransaction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shadankhan/Desktop/SIT771/BankTransaction/obj/Debug/net8.0/BankTransaction.AssemblyInfoInputs.cache
+/Users/shadankhan/Desktop/SIT771/BankTransaction/obj/Debug/net8.0/BankTransaction.AssemblyInfo.cs
+/Users/shadankhan/Desktop/SIT771/BankTransaction/obj/Debug/net8.0/BankTransaction.csproj.CoreCompileInputs.cache
+/Users/shadankhan/Desktop/SIT771/BankTransaction/bin/Debug/net8.0/BankTransaction
+/Users/shadankhan/Desktop/SIT771/BankTransaction/bin/Debug/net8.0/BankTransaction.deps.json
+/Users/shadankhan/Desktop/SIT771/BankTransaction/bin/Debug/net8.0/BankTransaction.runtimeconfig.json
+/Users/shadankhan/Desktop/SIT771/BankTransaction/bin/Debug/net8.0/BankTransaction.dll
+/Users/shadankhan/Desktop/SIT771/BankTransaction/bin/Debug/net8.0/BankTransaction.pdb
+/Users/shadankhan/Desktop/SIT771/BankTransaction/obj/Debug/net8.0/BankTransaction.dll
+/Users/shadankhan/Desktop/SIT771/BankTransaction/obj/Debug/net8.0/refint/BankTransaction.dll
+/Users/shadankhan/Desktop/SIT771/BankTransaction/obj/Debug/net8.0/BankTransaction.pdb
+/Users/shadankhan/Desktop/SIT771/BankTransaction/obj/Debug/net8.0/BankTransaction.genruntimeconfig.cache
+/Users/shadankhan/Desktop/SIT771/BankTransaction/obj/Debug/net8.0/ref/BankTransaction.dll

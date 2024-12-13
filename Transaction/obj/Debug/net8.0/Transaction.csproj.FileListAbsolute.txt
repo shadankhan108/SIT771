@@ -1,0 +1,14 @@
+/Users/shadankhan/Desktop/SIT771/Transaction/bin/Debug/net8.0/Transaction
+/Users/shadankhan/Desktop/SIT771/Transaction/bin/Debug/net8.0/Transaction.deps.json
+/Users/shadankhan/Desktop/SIT771/Transaction/bin/Debug/net8.0/Transaction.runtimeconfig.json
+/Users/shadankhan/Desktop/SIT771/Transaction/bin/Debug/net8.0/Transaction.dll
+/Users/shadankhan/Desktop/SIT771/Transaction/bin/Debug/net8.0/Transaction.pdb
+/Users/shadankhan/Desktop/SIT771/Transaction/obj/Debug/net8.0/Transaction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shadankhan/Desktop/SIT771/Transaction/obj/Debug/net8.0/Transaction.AssemblyInfoInputs.cache
+/Users/shadankhan/Desktop/SIT771/Transaction/obj/Debug/net8.0/Transaction.AssemblyInfo.cs
+/Users/shadankhan/Desktop/SIT771/Transaction/obj/Debug/net8.0/Transaction.csproj.CoreCompileInputs.cache
+/Users/shadankhan/Desktop/SIT771/Transaction/obj/Debug/net8.0/Transaction.dll
+/Users/shadankhan/Desktop/SIT771/Transaction/obj/Debug/net8.0/refint/Transaction.dll
+/Users/shadankhan/Desktop/SIT771/Transaction/obj/Debug/net8.0/Transaction.pdb
+/Users/shadankhan/Desktop/SIT771/Transaction/obj/Debug/net8.0/Transaction.genruntimeconfig.cache
+/Users/shadankhan/Desktop/SIT771/Transaction/obj/Debug/net8.0/ref/Transaction.dll

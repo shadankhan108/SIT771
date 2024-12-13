@@ -1,0 +1,14 @@
+/Users/shadankhan/Desktop/SIT771/MakingScene/obj/Debug/net8.0/MakingScene.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shadankhan/Desktop/SIT771/MakingScene/obj/Debug/net8.0/MakingScene.AssemblyInfoInputs.cache
+/Users/shadankhan/Desktop/SIT771/MakingScene/obj/Debug/net8.0/MakingScene.AssemblyInfo.cs
+/Users/shadankhan/Desktop/SIT771/MakingScene/obj/Debug/net8.0/MakingScene.csproj.CoreCompileInputs.cache
+/Users/shadankhan/Desktop/SIT771/MakingScene/bin/Debug/net8.0/MakingScene
+/Users/shadankhan/Desktop/SIT771/MakingScene/bin/Debug/net8.0/MakingScene.deps.json
+/Users/shadankhan/Desktop/SIT771/MakingScene/bin/Debug/net8.0/MakingScene.runtimeconfig.json
+/Users/shadankhan/Desktop/SIT771/MakingScene/bin/Debug/net8.0/MakingScene.dll
+/Users/shadankhan/Desktop/SIT771/MakingScene/bin/Debug/net8.0/MakingScene.pdb
+/Users/shadankhan/Desktop/SIT771/MakingScene/obj/Debug/net8.0/MakingScene.dll
+/Users/shadankhan/Desktop/SIT771/MakingScene/obj/Debug/net8.0/refint/MakingScene.dll
+/Users/shadankhan/Desktop/SIT771/MakingScene/obj/Debug/net8.0/MakingScene.pdb
+/Users/shadankhan/Desktop/SIT771/MakingScene/obj/Debug/net8.0/MakingScene.genruntimeconfig.cache
+/Users/shadankhan/Desktop/SIT771/MakingScene/obj/Debug/net8.0/ref/MakingScene.dll

@@ -1,0 +1,4 @@
+/Users/shadankhan/Desktop/SIT771/RobotDodgechanges/obj/Debug/net8.0/RobotDodgechanges.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shadankhan/Desktop/SIT771/RobotDodgechanges/obj/Debug/net8.0/RobotDodgechanges.AssemblyInfoInputs.cache
+/Users/shadankhan/Desktop/SIT771/RobotDodgechanges/obj/Debug/net8.0/RobotDodgechanges.AssemblyInfo.cs
+/Users/shadankhan/Desktop/SIT771/RobotDodgechanges/obj/Debug/net8.0/RobotDodgechanges.csproj.CoreCompileInputs.cache

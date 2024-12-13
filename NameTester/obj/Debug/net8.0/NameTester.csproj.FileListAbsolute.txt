@@ -1,0 +1,14 @@
+/Users/shadankhan/Desktop/SIT771/NameTester/bin/Debug/net8.0/NameTester
+/Users/shadankhan/Desktop/SIT771/NameTester/bin/Debug/net8.0/NameTester.deps.json
+/Users/shadankhan/Desktop/SIT771/NameTester/bin/Debug/net8.0/NameTester.runtimeconfig.json
+/Users/shadankhan/Desktop/SIT771/NameTester/bin/Debug/net8.0/NameTester.dll
+/Users/shadankhan/Desktop/SIT771/NameTester/bin/Debug/net8.0/NameTester.pdb
+/Users/shadankhan/Desktop/SIT771/NameTester/obj/Debug/net8.0/NameTester.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shadankhan/Desktop/SIT771/NameTester/obj/Debug/net8.0/NameTester.AssemblyInfoInputs.cache
+/Users/shadankhan/Desktop/SIT771/NameTester/obj/Debug/net8.0/NameTester.AssemblyInfo.cs
+/Users/shadankhan/Desktop/SIT771/NameTester/obj/Debug/net8.0/NameTester.csproj.CoreCompileInputs.cache
+/Users/shadankhan/Desktop/SIT771/NameTester/obj/Debug/net8.0/NameTester.dll
+/Users/shadankhan/Desktop/SIT771/NameTester/obj/Debug/net8.0/refint/NameTester.dll
+/Users/shadankhan/Desktop/SIT771/NameTester/obj/Debug/net8.0/NameTester.pdb
+/Users/shadankhan/Desktop/SIT771/NameTester/obj/Debug/net8.0/NameTester.genruntimeconfig.cache
+/Users/shadankhan/Desktop/SIT771/NameTester/obj/Debug/net8.0/ref/NameTester.dll
